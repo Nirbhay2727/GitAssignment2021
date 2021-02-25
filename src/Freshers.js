@@ -1932,4 +1932,17 @@ contacts: [
         },
     ]
 }
+{
+    entryNum: 365,
+    name : 'Nirbhay Kumar',
+    branch: 'CS1',
+    about: 'better late than never',
+    contact: [
+        {
+            id: 0,
+            type: 'Instagram',
+            url: 'https://www.instagram.com/nirbhay.3/'
+        },
+    ]
+}
 ];
